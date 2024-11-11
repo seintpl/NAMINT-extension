@@ -10,4 +10,6 @@ This extension doesn't store any of your data, it just gives you links to search
 
 For more options, please visit the full tool site: https://seintpl.github.io/NAMINT
 
-The extensions will be available soon.
+You can install the extensions for:
+* Chrome: https://chromewebstore.google.com/detail/namint-quicksearch/fbdeeodkbancilkiiafcgjflmimhfnhb
+* Firefox: https://addons.mozilla.org/pl/firefox/addon/namint-quicksearch/
